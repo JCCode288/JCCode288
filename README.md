@@ -11,7 +11,7 @@ Welcome to my GitHub! I am a passionate Software Developer with a unique problem
 
 ### 💫 About Me
 
-* 🔭 **What I am currently working on:** * **Software Developer @ Sazanka Henig Solusi**: Engineering backend reliability, optimizing heavy I/O operations (processing 3 million rows in under 45 minutes!), and enhancing AI reasoning using "Step-Back" prompting.
+* 🔭 **What I am currently working on:** * **Software Developer @ Sazanka Henig Solusi**: Engineering backend reliability, optimizing heavy I/O operations (processing 3 million rows in under 45 minutes!), and enhancing AI reasoning using multiple prompting techniques (Step-Back, ReACT, ReWOO, Plan-n-Execute, etc).
     * **AiSA IAI**: Architecting a hierarchical AI agent system utilizing ReACT and ReWOO frameworks to solve complex, multi-step tasks.
     * **Astream (v4)**: Iteratively re-architecting an anime streaming platform from a monolith into a highly scalable microservices architecture using Next.js, GraphQL, and Golang.
     * **Enterprise Search & Architecture**: Implementing comprehensive multi-column search features using PostgreSQL (`pg_textsearch` with BM25 ranking) and deploying scalable FastAPI backends connected to MongoDB on Azure Kubernetes Service (AKS).
